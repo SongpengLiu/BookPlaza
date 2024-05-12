@@ -1,0 +1,101 @@
+author,title,rating,rater count,genre,best price,seller,url
+Author0 X,Title0 Y,0.0,0,New Adult,0.0,Amazon,https://www.amazon.com/s?k=Author0+X+Title0+Y
+Author1 X,Title1 Y,0.1,10,Contemporary Romance,0.01,Barnes & Nobles,https://www.barnesandnoble.com/s/Author1+X+Title1+Y
+Author2 X,Title2 Y,0.2,20,Contemporary,0.02,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author2 X Title2 Y
+Author3 X,Title3 Y,0.3,30,Chick Lit,0.03,Google Play,https://play.google.com/store/search?q=Author3 X Title3 Y&c=books
+Author4 X,Title4 Y,0.4,40,College,0.04,Amazon,https://www.amazon.com/s?k=Author4+X+Title4+Y
+Author5 X,Title5 Y,0.5,50,Romance,0.05,Barnes & Nobles,https://www.barnesandnoble.com/s/Author5+X+Title5+Y
+Author6 X,Title6 Y,0.6,60,AdultLove,0.06,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author6 X Title6 Y
+Author7 X,Title7 Y,0.7,70,Fiction,0.07,Google Play,https://play.google.com/store/search?q=Author7 X Title7 Y&c=books
+Author8 X,Title8 Y,0.8,80,Young Adult,0.08,Amazon,https://www.amazon.com/s?k=Author8+X+Title8+Y
+Author9 X,Title9 Y,0.9,90,New Adult,0.09,Barnes & Nobles,https://www.barnesandnoble.com/s/Author9+X+Title9+Y
+Author10 X,Title10 Y,1.0,100,Contemporary Romance,0.1,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author10 X Title10 Y
+Author11 X,Title11 Y,1.1,110,Contemporary,0.11,Google Play,https://play.google.com/store/search?q=Author11 X Title11 Y&c=books
+Author12 X,Title12 Y,1.2,120,Chick Lit,0.12,Amazon,https://www.amazon.com/s?k=Author12+X+Title12+Y
+Author13 X,Title13 Y,1.3,130,College,0.13,Barnes & Nobles,https://www.barnesandnoble.com/s/Author13+X+Title13+Y
+Author14 X,Title14 Y,1.4,140,Romance,0.14,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author14 X Title14 Y
+Author15 X,Title15 Y,1.5,150,AdultLove,0.15,Google Play,https://play.google.com/store/search?q=Author15 X Title15 Y&c=books
+Author16 X,Title16 Y,1.6,160,Fiction,0.16,Amazon,https://www.amazon.com/s?k=Author16+X+Title16+Y
+Author17 X,Title17 Y,1.7,170,Young Adult,0.17,Barnes & Nobles,https://www.barnesandnoble.com/s/Author17+X+Title17+Y
+Author18 X,Title18 Y,1.8,180,New Adult,0.18,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author18 X Title18 Y
+Author19 X,Title19 Y,1.9,190,Contemporary Romance,0.19,Google Play,https://play.google.com/store/search?q=Author19 X Title19 Y&c=books
+Author20 X,Title20 Y,2.0,200,Contemporary,0.2,Amazon,https://www.amazon.com/s?k=Author20+X+Title20+Y
+Author21 X,Title21 Y,2.1,210,Chick Lit,0.21,Barnes & Nobles,https://www.barnesandnoble.com/s/Author21+X+Title21+Y
+Author22 X,Title22 Y,2.2,220,College,0.22,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author22 X Title22 Y
+Author23 X,Title23 Y,2.3,230,Romance,0.23,Google Play,https://play.google.com/store/search?q=Author23 X Title23 Y&c=books
+Author24 X,Title24 Y,2.4,240,AdultLove,0.24,Amazon,https://www.amazon.com/s?k=Author24+X+Title24+Y
+Author25 X,Title25 Y,2.5,250,Fiction,0.25,Barnes & Nobles,https://www.barnesandnoble.com/s/Author25+X+Title25+Y
+Author26 X,Title26 Y,2.6,260,Young Adult,0.26,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author26 X Title26 Y
+Author27 X,Title27 Y,2.7,270,New Adult,0.27,Google Play,https://play.google.com/store/search?q=Author27 X Title27 Y&c=books
+Author28 X,Title28 Y,2.8,280,Contemporary Romance,0.28,Amazon,https://www.amazon.com/s?k=Author28+X+Title28+Y
+Author29 X,Title29 Y,2.9,290,Contemporary,0.29,Barnes & Nobles,https://www.barnesandnoble.com/s/Author29+X+Title29+Y
+Author30 X,Title30 Y,3.0,300,Chick Lit,0.3,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author30 X Title30 Y
+Author31 X,Title31 Y,3.1,310,College,0.31,Google Play,https://play.google.com/store/search?q=Author31 X Title31 Y&c=books
+Author32 X,Title32 Y,3.2,320,Romance,0.32,Amazon,https://www.amazon.com/s?k=Author32+X+Title32+Y
+Author33 X,Title33 Y,3.3,330,AdultLove,0.33,Barnes & Nobles,https://www.barnesandnoble.com/s/Author33+X+Title33+Y
+Author34 X,Title34 Y,3.4,340,Fiction,0.34,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author34 X Title34 Y
+Author35 X,Title35 Y,3.5,350,Young Adult,0.35,Google Play,https://play.google.com/store/search?q=Author35 X Title35 Y&c=books
+Author36 X,Title36 Y,3.6,360,New Adult,0.36,Amazon,https://www.amazon.com/s?k=Author36+X+Title36+Y
+Author37 X,Title37 Y,3.7,370,Contemporary Romance,0.37,Barnes & Nobles,https://www.barnesandnoble.com/s/Author37+X+Title37+Y
+Author38 X,Title38 Y,3.8,380,Contemporary,0.38,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author38 X Title38 Y
+Author39 X,Title39 Y,3.9,390,Chick Lit,0.39,Google Play,https://play.google.com/store/search?q=Author39 X Title39 Y&c=books
+Author40 X,Title40 Y,4.0,400,College,0.4,Amazon,https://www.amazon.com/s?k=Author40+X+Title40+Y
+Author41 X,Title41 Y,4.1,410,Romance,0.41,Barnes & Nobles,https://www.barnesandnoble.com/s/Author41+X+Title41+Y
+Author42 X,Title42 Y,4.2,420,AdultLove,0.42,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author42 X Title42 Y
+Author43 X,Title43 Y,4.3,430,Fiction,0.43,Google Play,https://play.google.com/store/search?q=Author43 X Title43 Y&c=books
+Author44 X,Title44 Y,4.4,440,Young Adult,0.44,Amazon,https://www.amazon.com/s?k=Author44+X+Title44+Y
+Author45 X,Title45 Y,4.5,450,New Adult,0.45,Barnes & Nobles,https://www.barnesandnoble.com/s/Author45+X+Title45+Y
+Author46 X,Title46 Y,4.6,460,Contemporary Romance,0.46,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author46 X Title46 Y
+Author47 X,Title47 Y,4.7,470,Contemporary,0.47,Google Play,https://play.google.com/store/search?q=Author47 X Title47 Y&c=books
+Author48 X,Title48 Y,4.8,480,Chick Lit,0.48,Amazon,https://www.amazon.com/s?k=Author48+X+Title48+Y
+Author49 X,Title49 Y,4.9,490,College,0.49,Barnes & Nobles,https://www.barnesandnoble.com/s/Author49+X+Title49+Y
+Author50 X,Title50 Y,0.0,500,Romance,0.5,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author50 X Title50 Y
+Author51 X,Title51 Y,0.1,510,AdultLove,0.51,Google Play,https://play.google.com/store/search?q=Author51 X Title51 Y&c=books
+Author52 X,Title52 Y,0.2,520,Fiction,0.52,Amazon,https://www.amazon.com/s?k=Author52+X+Title52+Y
+Author53 X,Title53 Y,0.3,530,Young Adult,0.53,Barnes & Nobles,https://www.barnesandnoble.com/s/Author53+X+Title53+Y
+Author54 X,Title54 Y,0.4,540,New Adult,0.54,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author54 X Title54 Y
+Author55 X,Title55 Y,0.5,550,Contemporary Romance,0.55,Google Play,https://play.google.com/store/search?q=Author55 X Title55 Y&c=books
+Author56 X,Title56 Y,0.6,560,Contemporary,0.56,Amazon,https://www.amazon.com/s?k=Author56+X+Title56+Y
+Author57 X,Title57 Y,0.7,570,Chick Lit,0.57,Barnes & Nobles,https://www.barnesandnoble.com/s/Author57+X+Title57+Y
+Author58 X,Title58 Y,0.8,580,College,0.58,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author58 X Title58 Y
+Author59 X,Title59 Y,0.9,590,Romance,0.59,Google Play,https://play.google.com/store/search?q=Author59 X Title59 Y&c=books
+Author60 X,Title60 Y,1.0,600,AdultLove,0.6,Amazon,https://www.amazon.com/s?k=Author60+X+Title60+Y
+Author61 X,Title61 Y,1.1,610,Fiction,0.61,Barnes & Nobles,https://www.barnesandnoble.com/s/Author61+X+Title61+Y
+Author62 X,Title62 Y,1.2,620,Young Adult,0.62,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author62 X Title62 Y
+Author63 X,Title63 Y,1.3,630,New Adult,0.63,Google Play,https://play.google.com/store/search?q=Author63 X Title63 Y&c=books
+Author64 X,Title64 Y,1.4,640,Contemporary Romance,0.64,Amazon,https://www.amazon.com/s?k=Author64+X+Title64+Y
+Author65 X,Title65 Y,1.5,650,Contemporary,0.65,Barnes & Nobles,https://www.barnesandnoble.com/s/Author65+X+Title65+Y
+Author66 X,Title66 Y,1.6,660,Chick Lit,0.66,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author66 X Title66 Y
+Author67 X,Title67 Y,1.7,670,College,0.67,Google Play,https://play.google.com/store/search?q=Author67 X Title67 Y&c=books
+Author68 X,Title68 Y,1.8,680,Romance,0.68,Amazon,https://www.amazon.com/s?k=Author68+X+Title68+Y
+Author69 X,Title69 Y,1.9,690,AdultLove,0.69,Barnes & Nobles,https://www.barnesandnoble.com/s/Author69+X+Title69+Y
+Author70 X,Title70 Y,2.0,700,Fiction,0.7,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author70 X Title70 Y
+Author71 X,Title71 Y,2.1,710,Young Adult,0.71,Google Play,https://play.google.com/store/search?q=Author71 X Title71 Y&c=books
+Author72 X,Title72 Y,2.2,720,New Adult,0.72,Amazon,https://www.amazon.com/s?k=Author72+X+Title72+Y
+Author73 X,Title73 Y,2.3,730,Contemporary Romance,0.73,Barnes & Nobles,https://www.barnesandnoble.com/s/Author73+X+Title73+Y
+Author74 X,Title74 Y,2.4,740,Contemporary,0.74,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author74 X Title74 Y
+Author75 X,Title75 Y,2.5,750,Chick Lit,0.75,Google Play,https://play.google.com/store/search?q=Author75 X Title75 Y&c=books
+Author76 X,Title76 Y,2.6,760,College,0.76,Amazon,https://www.amazon.com/s?k=Author76+X+Title76+Y
+Author77 X,Title77 Y,2.7,770,Romance,0.77,Barnes & Nobles,https://www.barnesandnoble.com/s/Author77+X+Title77+Y
+Author78 X,Title78 Y,2.8,780,AdultLove,0.78,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author78 X Title78 Y
+Author79 X,Title79 Y,2.9,790,Fiction,0.79,Google Play,https://play.google.com/store/search?q=Author79 X Title79 Y&c=books
+Author80 X,Title80 Y,3.0,800,Young Adult,0.8,Amazon,https://www.amazon.com/s?k=Author80+X+Title80+Y
+Author81 X,Title81 Y,3.1,810,New Adult,0.81,Barnes & Nobles,https://www.barnesandnoble.com/s/Author81+X+Title81+Y
+Author82 X,Title82 Y,3.2,820,Contemporary Romance,0.82,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author82 X Title82 Y
+Author83 X,Title83 Y,3.3,830,Contemporary,0.83,Google Play,https://play.google.com/store/search?q=Author83 X Title83 Y&c=books
+Author84 X,Title84 Y,3.4,840,Chick Lit,0.84,Amazon,https://www.amazon.com/s?k=Author84+X+Title84+Y
+Author85 X,Title85 Y,3.5,850,College,0.85,Barnes & Nobles,https://www.barnesandnoble.com/s/Author85+X+Title85+Y
+Author86 X,Title86 Y,3.6,860,Romance,0.86,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author86 X Title86 Y
+Author87 X,Title87 Y,3.7,870,AdultLove,0.87,Google Play,https://play.google.com/store/search?q=Author87 X Title87 Y&c=books
+Author88 X,Title88 Y,3.8,880,Fiction,0.88,Amazon,https://www.amazon.com/s?k=Author88+X+Title88+Y
+Author89 X,Title89 Y,3.9,890,Young Adult,0.89,Barnes & Nobles,https://www.barnesandnoble.com/s/Author89+X+Title89+Y
+Author90 X,Title90 Y,4.0,900,New Adult,0.9,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author90 X Title90 Y
+Author91 X,Title91 Y,4.1,910,Contemporary Romance,0.91,Google Play,https://play.google.com/store/search?q=Author91 X Title91 Y&c=books
+Author92 X,Title92 Y,4.2,920,Contemporary,0.92,Amazon,https://www.amazon.com/s?k=Author92+X+Title92+Y
+Author93 X,Title93 Y,4.3,930,Chick Lit,0.93,Barnes & Nobles,https://www.barnesandnoble.com/s/Author93+X+Title93+Y
+Author94 X,Title94 Y,4.4,940,College,0.94,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author94 X Title94 Y
+Author95 X,Title95 Y,4.5,950,Romance,0.95,Google Play,https://play.google.com/store/search?q=Author95 X Title95 Y&c=books
+Author96 X,Title96 Y,4.6,960,AdultLove,0.96,Amazon,https://www.amazon.com/s?k=Author96+X+Title96+Y
+Author97 X,Title97 Y,4.7,970,Fiction,0.97,Barnes & Nobles,https://www.barnesandnoble.com/s/Author97+X+Title97+Y
+Author98 X,Title98 Y,4.8,980,Young Adult,0.98,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author98 X Title98 Y
+Author99 X,Title99 Y,4.9,990,New Adult,0.99,Google Play,https://play.google.com/store/search?q=Author99 X Title99 Y&c=books

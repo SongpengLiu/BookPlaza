@@ -1,0 +1,11 @@
+author,title,rating,rater count,genre,best price,seller,url
+Author0 X,Title0 Y,0.0,0,Contemporary,0.0,Amazon,https://www.amazon.com/s?k=Author0+X+Title0+Y
+Author1 X,Title1 Y,0.1,10,Fiction,0.01,Barnes & Nobles,https://www.barnesandnoble.com/s/Author1+X+Title1+Y
+Author2 X,Title2 Y,0.2,20,AdultLove,0.02,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author2 X Title2 Y
+Author3 X,Title3 Y,0.3,30,College,0.03,Google Play,https://play.google.com/store/search?q=Author3 X Title3 Y&c=books
+Author4 X,Title4 Y,0.4,40,Romance,0.04,Amazon,https://www.amazon.com/s?k=Author4+X+Title4+Y
+Author5 X,Title5 Y,0.5,50,New Adult,0.05,Barnes & Nobles,https://www.barnesandnoble.com/s/Author5+X+Title5+Y
+Author6 X,Title6 Y,0.6,60,Chick Lit,0.06,AbeBooks,https://www.abebooks.com/servlet/SearchResults?tn=Author6 X Title6 Y
+Author7 X,Title7 Y,0.7,70,Young Adult,0.07,Google Play,https://play.google.com/store/search?q=Author7 X Title7 Y&c=books
+Author8 X,Title8 Y,0.8,80,Contemporary Romance,0.08,Amazon,https://www.amazon.com/s?k=Author8+X+Title8+Y
+Author9 X,Title9 Y,0.9,90,Contemporary,0.09,Barnes & Nobles,https://www.barnesandnoble.com/s/Author9+X+Title9+Y

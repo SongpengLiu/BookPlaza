@@ -1,0 +1,10 @@
+<project version="4">
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+=======
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Android API 33, extension level 3 Platform" project-jdk-type="Android SDK">
+>>>>>>> origin/main
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
